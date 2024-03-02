@@ -24,18 +24,12 @@ export default function Header() {
               Поиск
             </Link>
             <Link to="#">
-              {" "}
               <LibraryBooksIcon />
               Сборники
             </Link>
             <Link to="#">
               <ArticleIcon />
               Статьи
-            </Link>
-            <Link to="#">
-              {" "}
-              <QuizIcon />
-              Тесты
             </Link>
           </div>
         </div>
